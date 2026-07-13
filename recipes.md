@@ -32,36 +32,33 @@ Center slot: **Makeshift Core** (replaces the Ender Pearl shown above).
 ![](recipes/reinforced_claim_anchor.png)
 
 Center slot: **Reinforced Core** (replaces the Makeshift Claim Anchor shown above).
-### Upgrade
-![](recipes/reinforced_upgrade_kit.png)
 
 ## Glistening Claim Anchor
 ![](recipes/glistening_claim_anchor.png)
 
 Center slot: **Glistening Core** (replaces the Reinforced Claim Anchor shown above).
-### Upgrade
-![](recipes/glistening_upgrade_kit.png)
 
 ## Crystal Claim Anchor
 ![](recipes/crystal_claim_anchor.png)
 
 Center slot: **Crystal Core** (replaces the Glistening Claim Anchor shown above).
-### Upgrade
-![](recipes/crystal_upgrade_kit.png)
 
 ## Emeradic Claim Anchor
 ![](recipes/emeradic_claim_anchor.png)
 
 Center slot: **Emeradic Core** (replaces the Crystal Claim Anchor shown above).
-### Upgrade
-![](recipes/emeradic_upgrade_kit.png)
 
 ## Withered Claim Anchor
 ![](recipes/withered_claim_anchor.png)
 
 Center slot: **Withered Core** (replaces the Emeradic Claim Anchor shown above).
-### Upgrade
-![](recipes/withered_upgrade_kit.png)
+
+# Upgrade Kits
+
+Upgrade Kits still work (right-click a placed Claim Anchor to upgrade it one
+tier in place), but they are **no longer craftable** — like Claim Cores, they
+are admin-only items handed out via `/give`. This keeps claim progression
+gated behind items an admin provides.
 
 # Claim Augments
 
