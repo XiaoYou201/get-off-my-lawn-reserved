@@ -23,6 +23,8 @@ import net.minecraft.world.item.component.ItemLore;
 public class GOMLItems {
     public static List<Item> BASE_ITEMS = new ArrayList<>();
 
+    private static final String[] ROMAN = {"I", "II", "III", "IV", "V", "VI"};
+
     // Non-craftable, admin-only "Claim Core" items. Displayed to clients as an enchanted Blaze Rod,
     // but registered as distinct items so vanilla blaze rods can't be used in claim anchor recipes.
     public static final Item MAKESHIFT_CORE = registerCore("makeshift_core", 1);
@@ -39,8 +41,6 @@ public class GOMLItems {
     public static final Item WITHERED_UPGRADE_KIT = registerUpgradeKit("withered_upgrade_kit", GOMLBlocks.EMERADIC_CLAIM_ANCHOR.getFirst(), GOMLBlocks.WITHERED_CLAIM_ANCHOR.getFirst(), Items.NETHER_STAR);
 
     public static final Item GOGGLES = register("goggles", GogglesItem::new);
-
-    private static final String[] ROMAN = {"I", "II", "III", "IV", "V", "VI"};
 
     private static UpgradeKitItem registerUpgradeKit(String name, ClaimAnchorBlock from, ClaimAnchorBlock to, Item item) {
         return register(name, (s) -> new UpgradeKitItem(s, from, to, item));
