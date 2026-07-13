@@ -26,20 +26,13 @@
     ]
   },
   "criteria": {
-    "has_chest": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "tag": "minecraft:beds"
-          }
-        ]
-      }
+    "joined": {
+      "trigger": "minecraft:tick"
     }
   },
   "requirements": [
     [
-      "has_chest"
+      "joined"
     ]
   ]
 }
