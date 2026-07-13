@@ -60,6 +60,8 @@
   "block.goml.force_field.description.2": "from entering the claim.",
 
   "item.goml.goggles": "Goggles of (Claim) Revealing",
+  "item.goml.claim_core": "Claim Core",
+  "enchantment.goml.mao_world": "Mao World",
   "item.goml.reinforced_upgrade_kit": "Reinforced Upgrade Kit",
   "item.goml.glistening_upgrade_kit": "Glistening Upgrade Kit",
   "item.goml.crystal_upgrade_kit": "Crystal Upgrade Kit",

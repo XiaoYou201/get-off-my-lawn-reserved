@@ -45,6 +45,8 @@
   "block.goml.force_field.description.1": "防止不受信任的玩家",
   "block.goml.force_field.description.2": "进入领地。",
   "item.goml.goggles": "（领地）显形护目镜",
+  "item.goml.claim_core": "領地核心",
+  "enchantment.goml.mao_world": "毛世界",
   "item.goml.reinforced_upgrade_kit": "强化升级套件",
   "item.goml.glistening_upgrade_kit": "闪亮升级套件",
   "item.goml.crystal_upgrade_kit": "水晶升级套件",

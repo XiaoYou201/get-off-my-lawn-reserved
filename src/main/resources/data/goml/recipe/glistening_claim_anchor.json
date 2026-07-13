@@ -9,7 +9,7 @@
     "#": "minecraft:stone",
     "i": "minecraft:gold_ingot",
     "I": "minecraft:gold_block",
-    "O": "goml:reinforced_claim_anchor"
+    "O": "goml:glistening_core"
   },
   "result": {
     "id": "goml:glistening_claim_anchor",

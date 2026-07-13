@@ -8,7 +8,7 @@
   "key": {
     "#": "#minecraft:logs",
     "S": "minecraft:stone",
-    "E": "minecraft:ender_pearl"
+    "E": "goml:makeshift_core"
   },
   "result": {
     "id": "goml:makeshift_claim_anchor"

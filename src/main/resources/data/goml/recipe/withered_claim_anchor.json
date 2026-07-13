@@ -9,7 +9,7 @@
     "#": "minecraft:nether_bricks",
     "i": "minecraft:nether_star",
     "I": "minecraft:soul_sand",
-    "O": "goml:emeradic_claim_anchor"
+    "O": "goml:withered_core"
   },
   "result": {
     "id": "goml:withered_claim_anchor",
